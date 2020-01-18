@@ -12,7 +12,7 @@ and then add the contact details of each attendee.
 
 **Technical Info:**
 
-The project uses Java (specifically Spring Framework and Spring MVC) for backend and JSP/html and AngularJS for frontend. It follows a Model View Controller architecture. Maven is used for dependency management and Tomcat is used as the application server.
+The project uses Java (specifically Spring Framework and Spring MVC) for backend and JSP/HTML and AngularJS for frontend. It follows a Model View Controller architecture. Maven is used for dependency management and Tomcat is used as the application server.
 
 The backend consists of a REST API to interact with the frontend. The frontend for this project is relatively basic and does not have any CSS/styling. However, the project does have some advanced features, such as localisation (having Spanish language support), personalisation, validation and logging.
 
